@@ -46,3 +46,19 @@ The dataset contains the following important columns:
    git clone https://github.com/your-username/sales-analysis.git
    cd sales-analysis
 
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Open the Jupyter Notebook:
+   jupyter notebook "Sales Analysis.ipynb"
+
+4. Run all cells to see the analysis and results.
+
+📌 Future Scope
+
+Build a machine learning model to predict sales.
+
+Add time series forecasting (ARIMA, Prophet, LSTM).
+
+Deploy the model with a web dashboard.
+
